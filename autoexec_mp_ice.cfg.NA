@@ -1,3 +1,5 @@
+// NA version for mp_ice due to different spawntimes used across the two regions
+
 set timer_allies "timerset 30"
 set timer_axis "timerset 30"
 
