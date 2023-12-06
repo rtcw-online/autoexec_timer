@@ -9,6 +9,7 @@
 - Press F5 to swap between spawnpoints
 
 ### Supported custom maps
+    ```
     bd_bunker_b2.pk3
     braundorf_b7.pk3
     frostafari_revamped_b3.pk3
@@ -29,4 +30,4 @@
     te_operation_b4.pk3
     te_radar_b1.pk3
     te_ufo.pk3
-    tram2.pk3
+    tram2.pk3```
